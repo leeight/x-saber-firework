@@ -1,6 +1,6 @@
 {
   "name": "x-saber-firework",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "移动端`MVP`开发框架（测试WebHooks）",
   "main": "main",
   "maintainers": [
